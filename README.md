@@ -1,13 +1,14 @@
 # Hello!
-Here's some navmeshes I've been working on - as this is all self taught, any feedback you have, minor or major, is much appreciated. Message me on discord or ping me in the Arcane University!
+Here's some navmesh practice - as this is all self taught, any feedback you have, minor or major, is much appreciated. Message me on discord or ping me in the Arcane University!
+Click any of the big blue title links, and in the top right of that page there's some download buttons.
 
 ## [0_Skyblivion_Navmesh_Practice_1_AAAASkybNavPractice.esp](0_Skyblivion_Navmesh_Practice_1_AAAASkybNavPractice.esp)
-A collection of diverse asset islands:
+A collection of asset islands:
 ![image](https://github.com/user-attachments/assets/29c7de7a-b5ea-40a8-99ce-a48f726fab81)
 
 
 Notably there was a section that had some rock steps as a natural staircase, but the rock steps were using a pillar asset that had near-unusable collision on their top.
-In the above esp I've replaced it with a ramp, but I've also got a version with collision boxes added all over to smooth the ascent, keeping the original structure: [0_Skyblivion_Navmesh_Practice_1_collision_boxes_AAAASkybNavPractice.esp](0_Skyblivion_Navmesh_Practice_1_collision_boxes_AAAASkybNavPractice.esp)
+In the above esp I've replaced it with a ramp, but I've also got a version with collision boxes to smooth and keep the original structure: [0_Skyblivion_Navmesh_Practice_1_collision_boxes_AAAASkybNavPractice.esp](0_Skyblivion_Navmesh_Practice_1_collision_boxes_AAAASkybNavPractice.esp)
 
 ![image](https://github.com/user-attachments/assets/357ca489-09de-4e27-9fa6-4f6d1697e391)
 
