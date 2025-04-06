@@ -21,6 +21,7 @@ The cave and house you've seen around in Skywind's practicum, Skyblivion's Pract
 A nice large exterior with all the bells and whistles:
 ![image](https://github.com/user-attachments/assets/4bcb04da-6106-4464-a1df-f51815d4d7e4)
 
-## [SkywindOptimizationTest.esp](SkywindOptimizationTest.esp)
-Quick roombounds, no navmeshing:
+## [0_Navmesh_Practice4_wherefore_AAAOptimizationTestCave_AAAOptimizationTestTomb.esp](0_Navmesh_Practice4_wherefore_AAAOptimizationTestCave_AAAOptimizationTestTomb.esp)
+Quick roombounds, and more practice interiors:
+![image](https://github.com/user-attachments/assets/11451117-af00-49b9-9d92-2c46285048fa)
 ![image](https://github.com/user-attachments/assets/1eb37b72-65cc-4ac8-bb28-f9e217802ebe)
