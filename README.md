@@ -27,4 +27,4 @@ Quick roombounds, and more practice interiors:
 ![image](https://github.com/user-attachments/assets/1eb37b72-65cc-4ac8-bb28-f9e217802ebe)
 
 ## [0_Navmesh_Practice5_wherefore_HJ_LostPassages.esp](0_Navmesh_Practice5_wherefore_HJ_LostPassages.esp)
-Total re-navmeshing of [this mod,](https://www.nexusmods.com/skyrimspecialedition/mods/106061) simply as practice.
+Total re-navmeshing of [this mod,](https://www.nexusmods.com/skyrimspecialedition/mods/106061) simply as practice. Currently in progress, check commit history if curious.
